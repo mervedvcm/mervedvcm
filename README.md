@@ -2,9 +2,9 @@
 
 - 💻 Frontend Developer
 - 🔭 I’m currently working on Business Technology Solutions
-- 🌱 I’m always learning about new techs...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about : JavaScript, React, Vue
+- 🌱 I’m always learning about new techs
+- 👯 I’m looking to collaborate
+- 💬 Ask me about : JavaScript, React.js, Vue.js
 - 📫 How to reach me: (https://www.linkedin.com/in/merve-deveci/) 
 
 ## 🌐 Socials:
